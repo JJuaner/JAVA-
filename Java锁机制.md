@@ -1,4 +1,6 @@
-## Sychronized和lock区别
+
+# Sychronized和lock区别
+
 synchronized是java关键字，属于JVM层面，lock系列锁是的一个接口/类位于JUC下，属于jdk-api层面
 
 相同点在于两者都是独占锁和可重入锁
